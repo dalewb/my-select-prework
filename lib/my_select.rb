@@ -7,7 +7,7 @@ def my_select(collection)
     end 
     i += 1
   end 
-  collection 
+  result 
 end
 
 # my_select([1,2,3,4,5]) {|el| el.odd?}
